@@ -1,4 +1,37 @@
 *{
   margin: 0;
   padding: 0;
+  font-family: sans-serif;
+  font-size: 13px;
 }
+
+/* NAVBAR Section */
+.black-nav{
+padding-left: 30px;
+width: 100%;
+height: 45px;
+background-color: black;
+display: flex;
+}
+
+.personal, .business{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 75px;
+  font-weight: 600;
+  line-height: 45px;
+}
+
+.personal{
+  background-color: white;
+}
+.business{
+  color: white;
+  transition:ease-in 0.3s;
+}
+.business:hover{
+background-color: rgb(63, 63, 63);
+}
+
