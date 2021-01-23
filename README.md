@@ -8,6 +8,12 @@ To produce a semi-functional frontpage of Aviva's website to practice and improv
 
 It is not intended to link to other pages and isn't responsive so should only reliably render on desktops.
 
+## Challenges
+
+# Navigation Bar
+Navigation sections are the bane of my life! Getting the structure correct definitely highlighted a huge gap in experience and knowledge of how to do this competently.
+
+
 ## Tools 
 
 
